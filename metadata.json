@@ -1,0 +1,6 @@
+{
+  "name": "पढ़ाई साथी AI",
+  "description": "सीखें • अभ्यास करें • आगे बढ़ें — स्कूल की पढ़ाई (कक्षा 1-12), फ्री ऑनलाइन टेस्ट, सरकारी नौकरी अपडेट, स्पोकन इंग्लिश एवं AI स्टडी असिस्टेंट।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
